@@ -10,4 +10,4 @@
 # Optional parameters:
 # @raycast.icon 📲
 
-open "google.fr"
+open "https://passculture.atlassian.net/secure/RapidBoard.jspa?rapidView=1&view=planning.nodetail&issueLimit=100&selectedEpic=PC-6134"
